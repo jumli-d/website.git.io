@@ -1,0 +1,256 @@
+#content{
+    min-height: 700px;
+    min-width: 800px;
+    height: auto;
+    width: auto;
+}
+#loginpage{
+    align-items: center;
+}
+* {
+    font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
+
+
+}
+header{
+    background-image: url("download.jpg");
+}
+
+.container{
+    max-width: 69cm;
+    margin: 0 auto;
+    padding: 0 lem;
+}
+body {
+background-color: rgb(110, 44, 171);
+
+
+}
+
+#box {
+    border: 1px solid  rgb(110, 44, 171);
+    border-radius: 50px;
+    width: 250px;
+    height: 230px;
+    position: relative;
+    top: 150px;
+    left: 560px;
+    cursor: context-menu;
+    background-color:  rgb(255, 254, 254); ;
+    opacity: 0.3;
+    
+
+}
+
+#user_name {
+    top: -10px;
+    left: 600px;
+    position: relative;
+    border: none;
+    
+
+}
+
+#user_password {
+    top: -5px;
+    position: relative;
+    left: 600px;
+    border: none;
+   
+
+}
+
+#send {
+    position: relative;
+    left: 650px;
+    top: 5px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+}
+
+details {
+    position: relative;
+    top: -240px;
+    left: 630px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+#instagram {
+    position: relative;
+    right: 40px;
+    top: 20px;
+    background-image: url(download.jpg);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    border-radius: 100px;
+    background-position: center;
+    width: 30px;
+    height: 25px;
+    cursor: pointer;
+}
+
+#line {
+    left: 1000px;
+}
+
+.p {
+    position: relative;
+    left: 630px;
+    top: -290px;
+    width: 10px;
+    height: 0px;
+}
+
+#gmail {
+    background-image: url(gmail.png);
+    position: relative;
+    border-radius: 10%;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-size: 30px;
+    border-radius: 100px;
+    background-position: center;
+    width: 30px;
+    height: 25px;
+    left: -40px;
+    top: 20px;
+    cursor: pointer;
+
+}
+#send:hover{
+    background-color:  rgb(80, 86, 91);
+    
+}
+#password:hover{
+    background-color: rgb(80, 86, 91);
+}
+#name:hover{
+    background-color:  rgb(80, 86, 91);
+}
+#gmail:hover{
+width: 35px;
+height: 30px;
+}
+#instagram:hover{
+    width: 35px;
+    height: 30px;
+}
+#show{
+    position: relative;
+    left: 705px;
+    bottom: 25px;
+    height: 20px;
+    width: 20px;
+    background-image: url(eye.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-color: transparent;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+    
+}
+#show:focus{
+    background-image: url(hide.png);
+}
+
+
+::placeholder{
+    color: rgba(0, 21, 255, 0.993);
+    background-color: silver;
+}
+
+.fb{
+    position: relative;
+   background-color: black;
+   border-radius: 50%;
+   border-radius: 10px;
+}
+#circle{
+    position: relative;
+    border: 1px solid black;
+    border-radius: 50px;
+    width: 75px;
+    height: 75px;
+    left: 650px;
+    top:170px;
+    background-color: rgb(89, 59, 238);
+    
+}
+#userl{
+    position: relative;
+    height: 65px;
+    width: 65px;
+    bottom: 15px;
+    left: 6px;
+}
+#userbox{
+    border: 1px solid blanchedalmond;
+    position: relative;
+    height: 16.6px;
+    width: 20px;
+    top: 72.5px;
+    left: 15px;
+}
+#imageuser{
+    position: relative;
+    height: 18px;
+    left: 1px;
+    width: 20px;
+    bottom:1px;
+    color: black;
+}
+#passwordbox{
+    border: 1px solid blanchedalmond;
+    position: relative;
+    height: 16.6px;
+    width: 20px;
+    top: 72.5px;
+    left: 15px;
+}
+#lock{
+     position: relative;
+    height: 18px;
+    left: 1px;
+    width: 20px;
+    bottom:-3px;
+    color: black
+
+
+}
+/*#checkbox{
+    border-radius: 50px;
+    bottom: 140px;
+    position: relative;
+    margin-left: 560px;
+    border: 1px solid black;
+    width: 250px;
+    height: 230px;
+    background-color: rgb(255, 255, 255);
+}
+#popup{
+    position: relative;
+    left: 20px;
+    top: 115.1px;
+}
+#correct{
+    position: relative;
+    height: 113px;
+    width: 113px;
+    left: 18px;
+    bottom: 76px;
+    
+}
+#next{
+    background-color: aqua;
+    border: none;
+    position: relative;
+    border-radius: 50px;
+    top: 100px;
+    left: 100px;
+    cursor: pointer;
+
+}*/
