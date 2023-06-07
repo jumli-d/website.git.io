@@ -1,3 +1,7 @@
+.all{
+   
+
+}
 #content{
     min-height: 700px;
     min-width: 800px;
@@ -16,13 +20,16 @@ header{
     background-image: url("download.jpg");
 }
 
-.container{
-    max-width: 69cm;
-    margin: 0 auto;
-    padding: 0 lem;
-}
+
 body {
 background-color: rgb(110, 44, 171);
+border: solid 1px black;
+width: 100px;
+max-width: 1000px;
+min-width: 500px;
+
+
+
 
 
 }
